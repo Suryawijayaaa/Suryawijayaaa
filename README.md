@@ -14,16 +14,16 @@
 
 <br>
 
-  <a href="https://github.com/InteLCore-star">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InteLCore-star&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  <a href="https://github.com/Suryawijayaaa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryawijayaaa&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/InteLCore-star">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=InteLCore-star&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  <a href="https://github.com/Suryawijayaaa">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suryawijayaaa&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
   </a>
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=InteLCore-star.408179647)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Suryawijayaaa.408179647)
 
 ------
 
